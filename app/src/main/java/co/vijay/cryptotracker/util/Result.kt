@@ -1,4 +1,6 @@
-package com.plcoding.cryptotracker.util
+package co.vijay.cryptotracker.util
+
+import com.plcoding.cryptotracker.util.Error
 
 typealias DomainError = Error
 
